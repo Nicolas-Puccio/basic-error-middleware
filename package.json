@@ -1,0 +1,27 @@
+{
+  "name": "basic-error-middleware",
+  "version": "1.0.0",
+  "description": "simple error middleware for express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nicolas-Puccio/basic-error-middleware.git"
+  },
+  "keywords": [
+    "middleware",
+    "handler",
+    "error-middleware",
+    "error-handler",
+    "express",
+    "node"
+  ],
+  "author": "Nicolas Puccio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nicolas-Puccio/basic-error-middleware/issues"
+  },
+  "homepage": "https://github.com/Nicolas-Puccio/basic-error-middleware#readme"
+}
